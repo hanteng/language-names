@@ -47,9 +47,9 @@ def load_json_list (u):
 
 # Selected Locale(s) Construction
 #locale_select = ['en'] # English is selected. Can be extended in the future  'zh-Hant-HK', 'zh-Hant-MO', 'zh-Hans', 'zh-Hans-SG'
-locale_select = ['zh-Hant'] # debug
+#locale_select = ['zh-Hant'] # debug
 #print (load_json_list (URL_CLDR_JSON_LOCALES_AVA))
-#locale_select = load_json_list (URL_CLDR_JSON_LOCALES_AVA)
+locale_select = load_json_list (URL_CLDR_JSON_LOCALES_AVA)
 # Note. More see Unicode specification (http://unicode.org/repos/cldr/trunk/common/collation/) and ICU Collation Demo http://demo.icu-project.org/icu-bin/collation.html
 
 
@@ -67,7 +67,7 @@ for l in locale_select:
 ## Preprocessing and Generating lists
 print ("Preprocessing data now ...")
 
-outputlist_territories={}
+outputlist_languages={}
 for key, value in locale_json.items():
     c_n=dict()
     r_n=dict()
@@ -100,16 +100,16 @@ for key, value in locale_json.items():
 
     #### Sort based on keys/codes
     #c_n_keys_sorted = sorted(list(c_n.keys()), key=collator.getSortKey)
-    #outputlist_territories [key]  =  [(x, c_n[x]) for x in c_n_keys_sorted]
+    #outputlist_languages [key]  =  [(x, c_n[x]) for x in c_n_keys_sorted]
 
     #### Sort based on values/names
     c_n_values_sorted = sorted(list(c_n.values()), key=collator.getSortKey)
     n_c = {v: k for k, v in c_n.items()}
-    outputlist_territories [key]  =  [(x, r_n[x]) for x in sorted(r_n.keys())] + [(n_c[x], x) for x in c_n_values_sorted]
+    outputlist_languages [key]  =  [(x, r_n[x]) for x in sorted(r_n.keys())] + [(n_c[x], x) for x in c_n_values_sorted]
 
-    df = pd.DataFrame(outputlist_territories[key])
+    df = pd.DataFrame(outputlist_languages[key])
     df.to_csv(outputfn_tsv_by_locale.format(locale=key), sep='\t', encoding='utf-8',  header = False, index = False)
 
 
-#df = pd.DataFrame(outputlist_territories['en'])
+#df = pd.DataFrame(outputlist_languages['en'])
 #df.to_csv(outputfn_tsv_by_locale.format(locale='en'), sep='\t', encoding='utf-8',  header = False, index = False)
