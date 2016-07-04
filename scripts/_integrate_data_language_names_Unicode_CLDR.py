@@ -26,9 +26,17 @@ for l in available_locales:
                     names = ['lang', 'name'],
                     keep_default_na = False, na_values = [])
     df_['locale'] = l
+    if "-" in l:
+        ll, lv = l.split("-", 1)
+        df_['locale_l'] = l
+        df_['locale_v'] = lv
+    else:
+        df_['locale_l'] = l
+        df_['locale_v'] = ""
+        
     df = pd.concat([df, df_])
 
-df = df[['locale', 'lang', 'name']]
+df = df[['locale', 'locale_v', 'locale_l', 'lang', 'name']]
 
 df.to_csv(outputfn1, sep='\t', encoding='utf-8',  header = False, index = False)
 df.query('lang==locale').to_csv(outputfn2, sep='\t', encoding='utf-8',  header = False, index = False)
