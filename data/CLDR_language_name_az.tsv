@@ -1,61 +1,154 @@
 ab	abxaz
-aa	afarca
+ada	adanqme
+ady	aduge
+aa	afar
+afh	afrihili
 af	afrikaans
-ak	akanca
+ak	akan
+ace	akin
+akk	akkad
+ach	akoli
 sq	alban
+ale	aleut
 de	alman
 am	amhar
-an	aragonca
+anp	angika
+agq	aqhem
+arc	aramik
+arp	arapaho
+an	araqon
+arw	aravak
+rup	aroman
+nds	aşağı alman
+nds-NL	aşağı sakson
+dsb	aşağı sorb
 as	assam
-av	avarikcə
-ae	avestanca
-ay	aymarca
+ast	asturiya
+asa	asu
+cch	atsam
+awa	avadhi
+av	avar
+ae	avestan
+en-AU	Avstraliya ingiliscəsi
+de-AT	Avstriya almancası
+ay	aymara
+ain	aynu
 az	azəri
+ksf	bafia
+ban	balli
+bal	baluc
 bm	bambara
+bas	basa
 eu	bask
 ba	başqırd
+bej	beja
 be	belarus
+bem	bemba
+bez	bena
 bn	benqal
-my	birma
+bik	bikol
+bin	bini
+my	birman
 bi	bislama
+byn	blin
+zbl	blisimbols
+brx	bodo
 nb	bokmal norveç
 bg	bolqar
 bs	bosniak
-br	Bretonca
+bra	braj
+pt-BR	Braziliya portuqalcası
+br	breton
+bug	bugin
+bua	buryat
+bho	bxoçpuri
+chg	çağatay
 ch	çamoro
 ce	çeçen
+chr	çeroki
 cs	çex
-nr	cənub ndebele
+chy	çeyen
+alt	cənubi altay
+az-Arab	cənubi azərbaycan
+sdh	cənubi kürd
+nr	cənubi ndebele
+sma	cənubi sami
+chb	çibça
 zh	çin
+chn	çinuk ləhçəsi
+chp	çipevyan
+cgg	çiqa
+za	çjuan
+cho	çoktau
+mul	çoxsaylı dillər
+crs	crs
+chk	çukiz
 cv	çuvaş
+dak	dakota
 da	danimarka
-dv	diveh
+dar	darqva
+dzg	dazaqa
+del	delaver
+zxx	dil məzmunu yoxdur
+din	dinka
+dyo	diola
+doi	doqri
+dgr	doqrib
+dua	duala
+dyu	dyula
 dz	dzonqa
+efi	efik
+eka	ekacuk
+elx	elamit
+ebu	embu
 hy	erməni
+myv	erzya
 eo	esperanto
 et	eston
 ee	eve
+ewo	evondo
+zh-Hant	ənənəvi çin
 ar	ərəb
+fan	fang
+fat	fanti
 fo	farer
 fa	fars
 fj	fici
+fil	filippin
 fi	fin
+nl-BE	flamand
+fon	fon
+phn	foyenik
 fr	fransız
+fur	friul
 ff	fula
+got	gotça
 ka	gürcü
-ht	haiti
+ht	haiti kreol
+hak	hakka
 ha	hausa
-hz	Herer
-hi	hindi
+haw	havay
+hai	hayda
+hz	herero
+hil	hiliqaynon
+hi	hind
 ho	hiri motu
+hit	hittit
 nl	holland
+hup	hupa
+iba	iban
+ibb	ibibio
+yi	idiş
 io	ido
-id	indonez
+ilo	iloko
+smn	inari sami
+id	indoneziya
 en	ingilis
-en-US	ingilis (A.B.Ş.)
+en-US	ingilis (ABŞ)
 en-GB	ingilis (B.K.)
-ia	interlingua
-ie	interlingue
+inh	inquş
+ia	interlinqua
+ie	interlinqve
 iu	inuktitut
 ik	inupiaq
 ig	iqbo
@@ -63,124 +156,358 @@ ga	irland
 is	island
 es	ispan
 sv	isveç
+gsw	İsveçrə almancası
+fr-CH	İsveçrə fransızcası
+de-CH	İsveçrə yüksək almancası
 it	italyan
 he	ivrit
-za	juənq
+jrb	ivrit-ərəb
+jpr	ivrit-fars
+kaj	ju
+kbd	kabarda-çərkəz
+kab	kabile
+kea	kabuverdian
+kac	kaçin
+kkj	kako
 kl	kalaallisut
+kln	kalencin
+xal	kalmık
+kam	kamba
+fr-CA	Kanada fransızcası
+en-CA	Kanada ingiliscəsi
 kn	kannada
-kr	kanur
-ks	kaşmir
+yue	kanton
+kr	kanuri
+krl	karel
+car	karib
+es-ES	Kastiliya ispancası
+csb	kaşubyan
 ca	katalan
+kaw	kavi
 qu	keçua
+cad	keddo
+ks	kəşmir
+quc	kiçe
 ki	kikuyu
-cu	kilsə slav
+kmb	kimbundu
 rw	kinyarvanda
+tlh	klinqon
+ksh	köln
 kv	komi
+koi	komi-permyak
+swb	komor
+kok	konkani
 kg	konqo
+sw-CD	Konqo suahilicəsi
+cop	kopt
 ko	koreya
 kw	korn
+kfo	koro
 co	korsika
-cr	kri dili
+kos	kosreyan
+khq	koyra çiini
+ses	koyraboro senni
+kpe	kpelle
+cr	kri
+mus	krik
+crh	krım türkcəsi
 kj	kuanyama
+kum	kumık
 ku	kürd
+kru	kurux
+kut	kutenay
+nmg	kvasio
 km	kxmer
+lkt	lakota
+lam	lamba
+lag	langi
 lo	laos
 la	latın
+es-419	Latın Amerikası ispancası
 lv	latış
-li	limburqiş
+lez	ləzgi
+li	limburq
 ln	linqala
 lt	litva
+jbo	loğban
+loz	lozi
 lu	luba-katanqa
+lua	luba-lulua
 lb	lüksemburq
+smj	lule sami
+lun	lunda
+luo	luo
+luy	luyia
+lui	luyseno
+jmc	maçam
 hu	macar
+mad	maduriz
+mai	maitili
+mak	makasar
 mk	makedon
+kde	makond
 mg	malaqas
 ms	malay
 ml	malayalam
+dv	maldiv
 mt	malta
+mnc	mançu
+mdr	mandar
+mni	manipüri
 gv	manks
 mi	maori
-mr	marati
+arn	mapuçe
+mag	maqahi
+mr	marathi
+chm	mari
 mh	marşal
+mwr	maruari
+mas	masay
+mgh	maxuva-meetto
+mzn	mazandaran
+es-MX	Meksika ispancası
+men	mende
+mer	meru
+mgo	meta’
+man	məndinqo
+tzm	Mərkəzi Atlas tamazicəsi
+mic	mikmak
+nan	Min Nan
+min	minanqkaban
+mwl	mirand
+lus	mizo
+moh	mohavk
+mdf	mokşa
+ro-MD	moldav
+hmn	monq
+lol	monqo
 mn	monqol
+mfe	morisien
+mos	mosi
+ar-001	müasir standart ərəb
+mua	mundanq
+naq	nama
+und	naməlum dil
 na	nauru
 nv	navayo
+ng	ndonqa
+nap	neapolitan
 ne	nepal
+new	nevari
+nnh	ngiemboon
+nia	nias
+pcm	niger kreol
+niu	niyuan
+nog	noqay
 no	norveç
-ng	nqonka
+sba	nqambay
+nqo	nqo
+jgo	nqomba
+nus	nuer
 nn	nünorsk norveç
+nym	nyamvezi
 ny	nyanca
+nyn	nyankol
+tog	nyasa tonqa
+nyo	nyoro
+nzi	nzima
 oj	ocibva
-oc	oksitanca
-or	oriya
+or	odiya
+oc	oksitan
 om	oromo
-os	osetik
+frm	orta fransız
+dum	orta holland
+enm	orta ingilis
+mga	orta irland
+gmh	orta yüksək alman
+osa	osage
+os	osetin
+ota	osman
 uz	özbək
+pau	palayan
 pi	pali
+pam	pampanqa
+pag	panqasinan
+pap	papyamento
+pal	pəhləvi
 pa	pəncab
 pl	polyak
+pon	ponpey
 pt	portuqal
+pt-PT	Portuqaliya portuqalcası
+prg	prg
 ps	puştu
-gl	qalisian
+gaa	qa
+gba	qabaya
+gl	qalisiya
+gan	qan
 lg	qanda
+gag	qaqauz
+krc	qaraçay-balkar
+kaa	qaraqalpaq
+gay	qayo
 kk	qazax
+gez	qez
+goh	qədim alman
+peo	qədim fars
+fro	qədim fransız
+ang	qədim ingilis
+sga	qədim irland
+egy	qədim misir
+non	qədim nors
+pro	qədim provansal
+grc	qədim yunan
+bgn	qərbi bəluc
 fy	qərbi friz
+lah	qərbi pəncab
+gil	qilbert
 ky	qırğız
+gon	qondi
+gor	qorontalo
+grb	qrebo
 gn	quarani
 gu	qucarat
-rm	retoroman
+guz	qusi
+gwi	qviçin
+raj	racastani
+rap	rapanui
+rar	rarotonqan
+rom	roman
+rm	romanş
+rof	rombo
+rwk	rua
 ro	rumın
 rn	rundi
 ru	rus
+root	rut
+zh-Hans	sadələşmiş çin
+ssy	saho
+sam	samaritan
+ksb	şambala
+saq	samburu
 sm	samoa
+shn	şan
+sad	sandave
 sg	sanqo
+sbp	sanqu
 sa	sanskrit
+sat	santal
 sc	sardin
+sas	sasak
+sah	saxa
+ceb	sebuan
+lad	sefard
+sel	selkup
+seh	sena
 sr	serb
-sh	serb-xorvatca
-st	Sesoto
+sh	serb-xorvat
+srr	serer
+st	sesoto
+scn	siciliya
 ii	siçuan yi
+sid	sidamo
+bla	siksikə
+nso	şimal soto
+frr	şimali fris
+lrc	şimali luri
 nd	şimali ndebele
 se	şimali sami
+tsi	simşyan
 sd	sindhi
-si	sinhal
-gd	skot gaelik
+si	sinhala
+sms	skolt sami
+sco	skots
+den	slavey
+cu	slavyan
 sk	slovak
 sl	sloven
 so	somali
 sn	şona
+snk	soninke
 ts	sonqa
-su	su
+xog	soqa
+sog	soqdiyen
+ckb	soran
+gd	Şotlandiya keltcəsi
+srn	sranan tonqo
 sw	suahili
+suk	sukuma
+sux	sumeryan
+su	sundan
+syr	suriya
+sus	susu
 tn	svana
 ss	svati
+hsn	syan
+shi	taçelit
 tg	tacik
+dav	taita
+tmh	tamaşek
+zgh	tamazi
 ta	tamil
 tl	taqaloq
+trv	taroko
+twq	tasavaq
 tt	tatar
 ty	taxiti
 th	tay
 te	teluqu
+ter	tereno
+teo	teso
+tet	tetum
 bo	tibet
+tem	timne
+tig	tiqre
 ti	tiqrin
+tiv	tiv
+kcg	tiyap
+tli	tlinqit
+tpi	tok pisin
+tkl	tokelay
 to	tonqa
+tum	tumbuka
 tr	türk
 tk	türkmən
-tw	Tvi
+tvl	tuvalu
+tyv	tuvinyan
+tw	tvi
+udm	udmurt
 cy	uels
 uk	ukrayna
+umb	umbundu
+uga	uqarit
 ur	urdu
 ug	uyğur
+vai	vai
+wal	valamo
+wae	valles
+wbp	valpiri
 wa	valun
+war	varay
+was	vaşo
 ve	venda
 vo	volapük
 wo	volof
+vot	votik
+wuu	vu
+vun	vunyo
 vi	vyetnam
+kha	xazi
 hr	xorvat
 xh	xosa
-yi	Yahudi
+kho	xotan
+yav	yanqben
+yao	yao
+yap	yapiz
 ja	yapon
 jv	yava
+ybb	yemba
 yo	yoruba
 el	yunan
+hsb	yuxarı sorb
+zap	zapotek
+dje	zarma
+zza	zaza
+zen	zenaqa
 zu	zulu
+zun	zuni

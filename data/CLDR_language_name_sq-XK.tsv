@@ -1,186 +1,405 @@
-aa	aa
 ab	abkazisht
-ae	ae
+ady	adigisht
+aa	afarisht
 af	afrikanisht
+agq	agemisht
+ay	ajmarisht
+ain	ajnuisht
 ak	akanisht
-am	amarikisht
-an	an
+ace	akinezisht
+ale	aleutisht
+alt	altaishte jugore
+am	amarisht
+ada	andangmeisht
+anp	angikisht
 en	anglisht
+en-AU	anglishte australiane
 en-GB	anglishte e Mbretërisë së Bashkuar
 en-US	anglishte e SHBA-së
+en-CA	anglishte kanadeze
 ar	arabisht
+ar-001	arabishte standarde moderne
+an	aragonezisht
+arp	arapahoisht
 hy	armenisht
+rup	arumune
 as	asamezisht
-av	av
-ay	ay
+ast	asturisht
+asa	asuisht
+awa	auadhisht
+av	avarikisht
 az	azerisht
+ksf	bafianisht
+ban	balinezisht
+bgn	balokishte perëndimore
 bm	bambarisht
+bas	basaisht
 eu	baskisht
 ba	bashkirisht
+bem	bembaisht
+bez	benaisht
 bn	bengalisht
-bi	bi
+bin	binisht
 my	birmanisht
+bi	bislamisht
 be	bjellorusisht
-nb	bokmalishte norvegjeze
+byn	blinisht
+brx	bodoisht
 bs	boshnjakisht
+bho	boxhpurisht
 br	bretonisht
+bug	buginezisht
 bg	bullgarisht
-ch	ch
-cr	cr
-cu	cu
+ts	congaisht
+tn	cuanaisht
 ce	çeçenisht
+chy	çejenisht
 cs	çekisht
+chr	çerokisht
+cgg	çigisht
+cho	çoktauisht
+chk	çukezisht
 cv	çuvashisht
+dak	dakotisht
 da	danisht
-dv	dv
+dar	darguaisht
+dzg	dazagauisht
+dv	divehisht
+dgr	dogribisht
+dua	dualaisht
+und	e panjohur
+efi	efikisht
+eka	ekajukisht
+ebu	embuisht
+myv	erzjaisht
 eo	esperanto
 et	estonisht
+ewo	euondoisht
+ee	eveisht
 fo	faroisht
-ff	ff
+fil	filipinisht
 fi	finlandisht
 fj	fixhianisht
+nl-BE	flamandisht
+fon	fonisht
 fr	frëngjisht
-fy	frizianisht
-gl	galike
-lg	gandisht
-gd	gd
+fr-CA	frëngjishte kanadeze
+crs	frëngjishte kreole seselve
+fr-CH	frëngjishte zvicerane
+fur	friulianisht
+fy	frizianishte perëndimore
+ff	fulaisht
+gag	gagauzisht
+gaa	gaisht
+gl	galicisht
+gd	galishte skoceze
+gan	gan
+lg	gandaisht
+gil	gilbertazisht
+gez	gizisht
+gor	gorontaloisht
 el	greqisht
 gn	guaranisht
+gwi	guiçinisht
+guz	gusisht
 gu	guxharatisht
 ka	gjeorgjisht
 de	gjermanisht
-ht	haitianisht
+de-AT	gjermanishte austriake
+nds	gjermanishte e vendeve të ulëta
+nds-NL	gjermanishte saksone e vendeve të ulëta
+gsw	gjermanishte zvicerane
+de-CH	gjermanishte zvicerane (dialekti i Alpeve)
+ie	gjuha oksidentale
+mul	gjuhë të shumëfishta
+ht	haitisht
+hak	hak
 ha	hausisht
+haw	havaisht
 he	hebraisht
-ho	ho
+hz	hereroisht
+hil	hiligajnonisht
+hmn	hmongisht
 nl	holandisht
+hsn	hsn
 hu	hungarisht
-hz	hz
-ia	ia
-ie	ie
+hup	hupaisht
+iba	ibanisht
+ibb	ibibioisht
+io	idoisht
 ig	igboisht
-ik	ik
+ilo	ilokoisht
 hi	indisht
 id	indonezisht
+inh	ingushisht
+ia	interlingua
 iu	inuktitutisht
-io	io
 ga	irlandisht
 is	islandisht
 it	italisht
+yav	jangbenisht
 ja	japonisht
 jv	javanisht
-yo	jorubisht
-ee	juisht
+ybb	jembaisht
+yi	jidisht
+yo	jorubaisht
+kbd	kabardianisht
+kab	kabilisht
+kac	kaçinisht
+kaj	kajeisht
+kkj	kakoisht
 kl	kalalisutisht
-kn	kanade
-ks	kashmire
+kln	kalenxhinisht
+xal	kalmikisht
+kam	kambaisht
+swb	kamorianisht
+ch	kamoroisht
+kn	kanadisht
+yue	kantonezisht
+kr	kanurisht
+krc	karaçaj-balkarisht
+krl	karelianisht
+kha	kasisht
+ks	kashmirisht
 ca	katalonisht
 kk	kazakisht
 qu	keçuaisht
-kg	kg
+ksh	këlnisht
+quc	kiçeisht
 ki	kikujuisht
+kmb	kimbunduisht
 zh	kinezisht
+zh-Hans	kinezisht (i thjeshtuar)
+zh-Hant	kinezisht (tradicional)
 rw	kiniaruandisht
 ky	kirgizisht
-kj	kj
-km	kmere
+tlh	klingonisht
+km	kmerisht
+khq	kojraçinisht
+koi	komi-parmjakisht
+kv	komisht
+kok	konkanisht
 ko	koreanisht
-kw	kornishisht
-co	korsikanisht
-kr	kr
+kw	kornisht
+kfo	koroisht
+co	korsikisht
+xh	kosaisht
+kpe	kpeleisht
+kea	kreolishte e Kepit të Gjelbër
+mus	krikisht
 hr	kroatisht
-ku	kurde
-kv	kv
+kj	kuanjamaisht
+nmg	kuasisht
+kum	kumikisht
+ku	kurdisht
+sdh	kurdishte jugore
+ckb	kurdishte qendrore
+kru	kurukisht
+lad	ladinoisht
+lkt	lakotisht
+lag	langisht
 lo	laosisht
 la	latinisht
 lv	letonisht
-li	li
+lez	lezgianisht
+li	limburgisht
 ln	lingalisht
 lt	lituanisht
-lu	lubakatangisht
-lb	luksemburgase
+jbo	lojbanisht
+loz	lozisht
+lu	luba-katangaisht
+lua	luba-luluaisht
+luy	lujaisht
+lb	luksemburgisht
+lun	lundaisht
+luo	luoisht
+lrc	lurishte veriore
+jmc	maçamisht
+mad	madurezisht
+mag	magaisht
+mai	maitilisht
+mak	makasarisht
+kde	makondisht
+mgh	makua-mitoisht
 mg	malagezisht
 ml	malajalamisht
 ms	malajisht
 mt	maltisht
+mni	manipurisht
 gv	manksisht
 mi	maorisht
+arn	mapuçisht
 mk	maqedonisht
 mr	maratisht
-mh	mh
+chm	marisht
+mh	marshallisht
+mas	masaisht
+mzn	mazanderanisht
+men	mendisht
+mer	meruisht
+mgo	metaisht
+mic	mikmakisht
+min	minangkabauisht
+mwl	mirandisht
+lus	mizoisht
+moh	mohokisht
+mdf	mokshaisht
+ro-MD	moldavisht
 mn	mongolisht
-na	na
+mfe	morisjenisht
+mos	mosisht
+mua	mundangisht
+naq	namaisht
+nan	nan
+nap	napoletanisht
+na	nauruisht
+nv	navahoisht
+nr	ndebelishte jugore
 nd	ndebelishte veriore
+ng	ndongaisht
 ne	nepalisht
-ng	ng
-nn	ninorske norvegjeze
-no	no
-nr	nr
-nv	nv
-ny	ny
-oc	oc
-oj	oj
-or	orijaisht
+new	neuarisht
+sba	ngambajisht
+nnh	ngiembunisht
+jgo	ngombisht
+nyn	niankolisht
+ny	nianjisht
+nia	niasisht
+niu	niueanisht
+nqo	nkoisht
+nog	nogajisht
+no	norvegjisht
+nb	norvegjishte letrare
+nn	norvegjishte nynorsk
+nus	nuerisht
+zxx	nuk ka përmbajtje gjuhësore
+or	odisht
+oc	oksitanisht
 om	oromoisht
-os	os
+os	osetisht
+pau	paluanisht
+pam	pampangaisht
+pag	pangasinanisht
 pa	panxhabisht
+pap	papiamentisht
 ps	pashtoisht
 fa	persisht
-pi	pi
+tpi	pisinishte toku
+pcm	pixhinishte nigeriane
 pl	polonisht
 pt	portugalisht
-rm	rome
+pt-BR	portugalishte braziliane
+pt-PT	portugalishte evropiane
+prg	prusisht
+rap	rapanuisht
+rar	rarontonganisht
+rm	retoromanisht
+rof	romboisht
+rwk	ruaisht
 ro	rumanisht
 rn	rundisht
 ru	rusisht
+root	rutisht
+ssy	sahoisht
+sah	sakaisht
+saq	samburisht
+smn	samishte inari
+sma	samishte jugore
+smj	samishte lule
+sms	samishte skolti
 se	samishte veriore
+sm	samoanisht
+sad	sandauisht
 sg	sangoisht
+sbp	sanguisht
 sa	sanskritisht
-sc	sc
+sat	santalisht
+sc	sardenjisht
+ceb	sebuanisht
+seh	senaisht
+ses	senishte kojrabore
 sr	serbisht
-sh	Serbo-Kroatisht
+sh	serbo-kroatisht
+scn	siçilianisht
+bla	siksikaisht
 sd	sindisht
 si	sinhalisht
+syr	siriakisht
 ii	sishuanisht
+sco	skotisht
+cu	sllavishte kishe
 sk	sllovakisht
 sl	sllovenisht
-sm	sm
+xog	sogisht
 so	somalisht
+snk	soninkisht
+dsb	sorbishte e poshtme
+hsb	sorbishte e sipërme
+st	sotoishte jugore
+nso	sotoishte veriore
 es	spanjisht
-ss	ss
-st	st
+es-419	spanjishte amerikano-latine
+es-ES	spanjishte evropiane
+es-MX	spanjishte meksikane
+srn	srananisht (sranantongoisht)
 sw	suahilisht
+sw-CD	suahilishte kongoje
+ss	suatisht
 sv	suedisht
+suk	sukumaisht
 su	sundanisht
+ksb	shambalisht
+shn	shanisht
 sn	shonisht
 sq	shqip
+shi	taçelitisht
+ty	tahitisht
 th	tajlandisht
-ta	tamile
+dav	tajtaisht
+tzm	tamaziatishte atlase qendrore
+zgh	tamaziatishte standarde marokene
+ta	tamilisht
+twq	tasavakisht
 tt	tatarisht
 tg	taxhikisht
-te	teluge
+te	teluguisht
+teo	tesoisht
+tet	tetumisht
 bo	tibetisht
-ti	tigrinje
-tl	tl
-tn	tn
+tig	tigreisht
+ti	tigrinjaisht
+tem	timneisht
+kcg	tjapisht
 to	tonganisht
-ts	ts
+trv	torokoisht
+tw	tuisht
+tum	tumbukaisht
 tk	turkmenisht
 tr	turqisht
-tw	tw
-ty	ty
+tvl	tuvaluisht
+tyv	tuvinianisht
+wae	ualserisht
+wa	ualunisht
+war	uarajisht
+wbp	uarlpirisht
+udm	udmurtisht
 cy	uellsisht
-ug	ujgure
+ug	ujgurisht
 uk	ukrainisht
+wal	ulajtaisht
 wo	ulufisht
-ur	urdu
-uz	uzbeke
-ve	ve
+umb	umbunduisht
+ur	urduisht
+uz	uzbekisht
+vai	vaisht
+ve	vendaisht
 vi	vietnamisht
-vo	vo
-wa	wa
+vo	volapykisht
+vun	vunxhoisht
+wuu	wuu
 dz	xhongaisht
-xh	xhozaisht
-yi	yi
-za	za
+dyo	xhulafonjisht
+dje	zarmaisht
+zza	zazaisht
 zu	zuluisht
+zun	zunisht

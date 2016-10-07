@@ -12,7 +12,7 @@ outputfn_tsv_by_locale = os.path.join(path_data, "CLDR_language_name_{locale}.ts
 
 URL_CLDR_JSON_LANGUAGES = "https://raw.githubusercontent.com/unicode-cldr/cldr-localenames-full/master/main/{locale}/languages.json"
 URL_CLDR_JSON_LOCALES_AVA = "https://raw.githubusercontent.com/unicode-cldr/cldr-core/master/availableLocales.json"
-
+URL_CLDR_JSON_LANGS_AVA = "https://raw.githubusercontent.com/unicode-cldr/cldr-localenames-full/master/main/en/languages.json" # Using English as the baseline
 
 def url_request (url):
     r = requests.get(url)
@@ -22,7 +22,7 @@ def url_request (url):
         return None 
 
 
-def load_json_list (u):
+def load_json_list_locale (u):
     fn = os.path.join(path_data, os.path.split(u)[1])
     print (fn)
     try:
@@ -45,11 +45,37 @@ def load_json_list (u):
             _select = None
     return _select
 
+def load_json_list_lang (u):
+    fn = os.path.join(path_data, os.path.split(u)[1])
+    print (fn)
+    try:
+        with open(fn, 'r', encoding="utf-8") as infile:
+            _select = json.load (infile)
+            print ("Loaded from local file.")
+    except:
+        results = url_request (url  = u)
+        if results is not None:
+            try:
+                _select = results.json()['main']['en']['localeDisplayNames']['languages']
+                with open(fn, 'w', encoding="utf-8") as outfile:
+                    outfile.write("{}".format(_select).replace("'",'"'))
+                print ("Loaded from designated url.")
+            except:
+                print ("failed: json parsing")
+                _select = None
+        else:
+            print ("failed: empty")
+            _select = None
+    return _select
+
 # Selected Locale(s) Construction
 #locale_select = ['en'] # English is selected. Can be extended in the future  'zh-Hant-HK', 'zh-Hant-MO', 'zh-Hans', 'zh-Hans-SG'
 #locale_select = ['zh-Hant'] # debug
 #print (load_json_list (URL_CLDR_JSON_LOCALES_AVA))
-locale_select = load_json_list (URL_CLDR_JSON_LOCALES_AVA)
+locale_select = load_json_list_locale (URL_CLDR_JSON_LOCALES_AVA)
+
+lang_select = load_json_list_lang (URL_CLDR_JSON_LOCALES_AVA)
+
 # Note. More see Unicode specification (http://unicode.org/repos/cldr/trunk/common/collation/) and ICU Collation Demo http://demo.icu-project.org/icu-bin/collation.html
 
 
@@ -73,16 +99,13 @@ for key, value in locale_json.items():
     r_n=dict()
     for k, v in value.items():
         ### Remove -alt-variant and -alt-short
-        if len(k)>2:
-            if "-alt-variant" in k:
-                print ("not using:{}".format([k,v]))
-                pass
-            if "-alt-short" in k:  ## Using -alt-short if exists
-                k=k.replace("-alt-short", "")
-                print ("using:{}".format([k,v]))
-                c_n.update({k:v})
-            if len(k)==3 and k.isdigit():
-                r_n.update({k:v})  ## UN region codes
+        if "-alt-variant" in k:
+            print ("not using:{}".format([k,v]))
+            pass
+        if "-alt-short" in k:  ## Using -alt-short if exists
+            k=k.replace("-alt-short", "")
+            print ("using:{}".format([k,v]))
+            c_n.update({k:v})
                
         else:
             if k in c_n.keys():

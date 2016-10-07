@@ -1,0 +1,677 @@
+l_code	l_name
+aa	Afar
+ab	Abkhazian
+abr	Abron
+ace	Achinese
+ach	Acoli
+ada	Adangme
+ady	Adyghe
+aeb	Tunisian Arabic
+af	Afrikaans
+agq	Aghem
+ak	Akan
+aln	Gheg Albanian
+alt	Southern Altai
+am	Amharic
+amo	Amo
+aoz	Uab Meto
+ar	Arabic
+arn	Mapuche
+aro	Araona
+arq	Algerian Arabic
+ary	Moroccan Arabic
+arz	Egyptian Arabic
+as	Assamese
+asa	Asu
+ast	Asturian
+atj	Atikamekw
+av	Avaric
+awa	Awadhi
+ay	Aymara
+az_Arab	Azerbaijani (Arabic)
+az_Cyrl	Azerbaijani (Cyrillic)
+az_Latn	Azerbaijani (Latin)
+ba	Bashkir
+bal	Baluchi
+ban	Balinese
+bap	Bantawa
+bar	Bavarian
+bas	Basaa
+bax	Bamun
+bbc	Batak Toba
+bbj	Ghomala
+bci	Baoulé
+be	Belarusian
+bej	Beja
+bem	Bemba
+bew	Betawi
+bez	Bena
+bfd	Bafut
+bfq	Badaga
+bft	Balti
+bfy	Bagheli
+bg	Bulgarian
+bgc	Haryanvi
+bgn	Western Balochi
+bgx	Balkan Gagauz Turkish
+bhb	Bhili
+bhi	Bhilali
+bhk	Albay Bicolano
+bho	Bhojpuri
+bi	Bislama
+bik	Bikol
+bin	Bini
+bjj	Kanauji
+bjn	Banjar
+bjt	Balanta-Ganja
+bkm	Kom
+bku	Buhid
+bm_Latn	Bambara (Latin)
+bm_Nkoo	Bambara (N’Ko)
+bmq	Bomu
+bn	Bengali
+bo	Tibetan
+bpy	Bishnupriya
+bqi	Bakhtiari
+bqv	Koro Wachi
+br	Breton
+bra	Braj
+brh	Brahui
+brx	Bodo
+bs_Cyrl	Bosnian (Cyrillic)
+bs_Latn	Bosnian (Latin)
+bsc	Bassari
+bss	Akoose
+bto	Rinconada Bikol
+btv	Bateri
+bua	Buriat
+buc	Bushi
+bug	Buginese
+bum	Bulu
+bvb	Bube
+byn	Blin
+byv	Medumba
+bze	Jenaama Bozo
+ca	Catalan
+cch	Atsam
+ccp	Chakma
+ce	Chechen
+ceb	Cebuano
+cgg	Chiga
+ch	Chamorro
+chk	Chuukese
+chm	Mari
+cho	Choctaw
+chp	Chipewyan
+chr	Cherokee
+cja	Western Cham
+cjm	Eastern Cham
+ckb	Central Kurdish
+co	Corsican
+cps	Capiznon
+cr_Cans	Cree (Unified Canadian Aboriginal Syllabics)
+crj	Southern East Cree
+crk	Plains Cree
+crl	Northern East Cree
+crm	Moose Cree
+crs	Seselwa Creole French
+cs	Czech
+csb	Kashubian
+csw	Swampy Cree
+cu	Church Slavic
+cv	Chuvash
+cy	Welsh
+da	Danish
+dak	Dakota
+dar	Dargwa
+dav	Taita
+dcc	Deccan
+de	German
+den	Slave
+dgr	Dogrib
+dje	Zarma
+dnj	Dan
+doi	Dogri
+dsb	Lower Sorbian
+dtm	Tomo Kan Dogon
+dtp	Central Dusun
+dty	Dotyali
+dua	Duala
+dv	Divehi
+dyo	Jola-Fonyi
+dyu	Dyula
+dz	Dzongkha
+ebu	Embu
+ee	Ewe
+efi	Efik
+egl	Emilian
+el	Greek
+en	English
+eo	Esperanto
+es	Spanish
+esu	Central Yupik
+et	Estonian
+eu	Basque
+ewo	Ewondo
+ext	Extremaduran
+fa	Persian
+fan	Fang
+ff	Fulah
+ffm	Maasina Fulfulde
+fi	Finnish
+fia	Nobiin
+fil	Filipino
+fit	Tornedalen Finnish
+fj	Fijian
+fo	Faroese
+fon	Fon
+fr	French
+frc	Cajun French
+frp	Arpitan
+frr	Northern Frisian
+frs	Eastern Frisian
+fud	East Futuna
+fuq	Central-Eastern Niger Fulfulde
+fur	Friulian
+fuv	Nigerian Fulfulde
+fvr	Fur
+fy	Western Frisian
+ga	Irish
+gaa	Ga
+gag	Gagauz
+gan	Gan Chinese
+gay	Gayo
+gbm	Garhwali
+gbz	Zoroastrian Dari
+gcr	Guianese Creole French
+gd	Scottish Gaelic
+ggn	Eastern Gurung
+gil	Gilbertese
+gjk	Kachi Koli
+gju	Gujari
+gl	Galician
+glk	Gilaki
+gn	Guarani
+gom	Goan Konkani
+gon_Telu	Gondi (Telugu)
+gor	Gorontalo
+gos	Gronings
+grt	Garo
+gsw	Swiss German
+gu	Gujarati
+gub	Guajajára
+guc	Wayuu
+gur	Frafra
+guz	Gusii
+gv	Manx
+gvr	Gurung
+gwi	Gwichʼin
+ha_Arab	Hausa (Arabic)
+ha_Latn	Hausa (Latin)
+hak	Hakka Chinese
+haw	Hawaiian
+haz	Hazaragi
+he	Hebrew
+hi	Hindi
+hif_Latn	Fiji Hindi (Latin)
+hil	Hiligaynon
+hnd	Southern Hindko
+hne	Chhattisgarhi
+hnn	Hanunoo
+hno	Northern Hindko
+ho	Hiri Motu
+hoc	Ho
+hoj	Hadothi
+hr	Croatian
+hsb	Upper Sorbian
+hsn	Xiang Chinese
+ht	Haitian Creole
+hu	Hungarian
+hy	Armenian
+hz	Herero
+ia	Interlingua
+iba	Iban
+ibb	Ibibio
+id	Indonesian
+ig	Igbo
+ii	Sichuan Yi
+ik	Inupiaq
+ikt	Inuinnaqtun
+ilo	Iloko
+inh	Ingush
+is	Icelandic
+it	Italian
+iu_Cans	Inuktitut (Unified Canadian Aboriginal Syllabics)
+iu_Latn	Inuktitut (Latin)
+izh	Ingrian
+ja	Japanese
+jam	Jamaican Creole English
+jgo	Ngomba
+jmc	Machame
+jml	Jumli
+jut	Jutish
+jv	Javanese
+ka	Georgian
+kaa	Kara-Kalpak
+kab	Kabyle
+kac	Kachin
+kaj	Jju
+kam	Kamba
+kao	Xaasongaxango
+kbd	Kabardian
+kcg	Tyap
+kck	Kalanga
+kde	Makonde
+kdt	Kuy
+kea	Kabuverdianu
+kfo	Koro
+kfr	Kachhi
+kfy	Kumaoni
+kg	Kongo
+kge	Komering
+kgp	Kaingang
+kha	Khasi
+khb	Lü
+khn	Khandesi
+khq	Koyra Chiini
+kht	Khamti
+khw	Khowar
+ki	Kikuyu
+kiu	Kirmanjki
+kj	Kuanyama
+kjg	Khmu
+kk_Arab	Kazakh (Arabic)
+kk_Cyrl	Kazakh (Cyrillic)
+kkj	Kako
+kl	Kalaallisut
+kln	Kalenjin
+km	Khmer
+kmb	Kimbundu
+kn	Kannada
+knf	Mankanya
+ko	Korean
+koi	Komi-Permyak
+kok	Konkani
+kos	Kosraean
+kpe	Kpelle
+krc	Karachay-Balkar
+kri	Krio
+krj	Kinaray-a
+krl	Karelian
+kru	Kurukh
+ks_Arab	Kashmiri (Arabic)
+ksb	Shambala
+ksf	Bafia
+ksh	Colognian
+ku_Arab	Kurdish (Arabic)
+ku_Latn	Kurdish (Latin)
+kum	Kumyk
+kv	Komi
+kvr	Kerinci
+kvx	Parkari Koli
+kw	Cornish
+kxm	Northern Khmer
+kxp	Wadiyara Koli
+ky_Arab	Kyrgyz (Arabic)
+ky_Cyrl	Kyrgyz (Cyrillic)
+ky_Latn	Kyrgyz (Latin)
+la	Latin
+lad	Ladino
+lag	Langi
+lah	Lahnda
+laj	Lango (Uganda)
+lb	Luxembourgish
+lbe	Lak
+lbw	Tolaki
+lcp	Western Lawa
+lep	Lepcha
+lez	Lezghian
+lg	Ganda
+li	Limburgish
+lif_Deva	lif (Devanagari)
+lij	Ligurian
+lis	Lisu
+ljp	Lampung Api
+lki	Laki
+lkt	Lakota
+lmn	Lambadi
+lmo	Lombard
+ln	Lingala
+lo	Lao
+lol	Mongo
+loz	Lozi
+lrc	Northern Luri
+lt	Lithuanian
+ltg	Latgalian
+lu	Luba-Katanga
+lua	Luba-Lulua
+luo	Luo
+luy	Luyia
+luz	Southern Luri
+lv	Latvian
+lwl	Eastern Lawa
+lzh	Literary Chinese
+lzz_Latn	Laz (Latin)
+mad	Madurese
+maf	Mafa
+mag	Magahi
+mai	Maithili
+mak	Makasar
+man_Latn	Mandingo (Latin)
+man_Nkoo	Mandingo (N’Ko)
+mas	Masai
+maz	Central Mazahua
+mdf	Moksha
+mdh	Maguindanaon
+mdr	Mandar
+men	Mende
+mer	Meru
+mey	Hassaniyya
+mfa	Pattani Malay
+mfe	Morisyen
+mfv	Mandjak
+mg	Malagasy
+mgh	Makhuwa-Meetto
+mgo	Metaʼ
+mgp	Eastern Magar
+mgy	Mbunga
+mh	Marshallese
+mi	Maori
+min	Minangkabau
+mk	Macedonian
+ml	Malayalam
+mls	Masalit
+mn_Cyrl	Mongolian (Cyrillic)
+mn_Mong	Mongolian (Mongolian)
+mni	Manipuri
+mnw	Mon
+moe	Montagnais
+moh	Mohawk
+mos	Mossi
+mr	Marathi
+mrd	Western Magar
+mrj	Western Mari
+mro	Mru
+ms_Arab	Malay (Arabic)
+ms_Latn	Malay (Latin)
+mt	Maltese
+mtr	Mewari
+mua	Mundang
+mus	Creek
+mvy	Indus Kohistani
+mwk	Kita Maninkakan
+mwr	Marwari
+mwv	Mentawai
+mxc	Manyika
+my	Burmese
+myv	Erzya
+myx	Masaaba
+mzn	Mazanderani
+na	Nauru
+nan	Min Nan Chinese
+nap	Neapolitan
+naq	Nama
+nb	Norwegian Bokmål
+nch	Central Huasteca Nahuatl
+nd	North Ndebele
+ndc	Ndau
+nds	Low German
+ne	Nepali
+new	Newari
+ng	Ndonga
+ngl	Lomwe
+nhe	Eastern Huasteca Nahuatl
+nhw	Western Huasteca Nahuatl
+nij	Ngaju
+niu	Niuean
+njo	Ao Naga
+nl	Dutch
+nmg	Kwasio
+nn	Norwegian Nynorsk
+nnh	Ngiemboon
+nod	Northern Thai
+noe	Nimadi
+nqo	N’Ko
+nr	South Ndebele
+nsk	Naskapi
+nso	Northern Sotho
+nus	Nuer
+nv	Navajo
+nxq	Naxi
+ny	Nyanja
+nym	Nyamwezi
+nyn	Nyankole
+nzi	Nzima
+oc	Occitan
+om	Oromo
+or	Oriya
+os	Ossetic
+pa_Arab	Punjabi (Arabic)
+pa_Guru	Punjabi (Gurmukhi)
+pag	Pangasinan
+pam	Pampanga
+pap	Papiamento
+pau	Palauan
+pcd	Picard
+pcm	Nigerian Pidgin
+pdc	Pennsylvania German
+pdt	Plautdietsch
+pfl	Palatine German
+pko	Pökoot
+pl	Polish
+pms	Piedmontese
+pnt_Grek	Pontic (Greek)
+pon	Pohnpeian
+prd	Parsi-Dari
+ps	Pashto
+pt	Portuguese
+puu	Punu
+qu	Quechua
+quc	Kʼicheʼ
+qug	Chimborazo Highland Quichua
+raj	Rajasthani
+rcf	Réunion Creole French
+rej	Rejang
+rgn	Romagnol
+ria	Riang (India)
+rif_Latn	Riffian (Latin)
+rif_Tfng	Riffian (Tifinagh)
+rjs	Rajbanshi
+rkt	Rangpuri
+rm	Romansh
+rmf	Kalo Finnish Romani
+rmo	Sinte Romani
+rmt	Domari
+rmu	Tavringer Romani
+rn	Rundi
+rng	Ronga
+ro	Romanian
+rob	Tae'
+rof	Rombo
+rtm	Rotuman
+ru	Russian
+rue	Rusyn
+rug	Roviana
+rw	Kinyarwanda
+rwk	Rwa
+ryu	Central Okinawan
+sa	Sanskrit
+saf	Safaliba
+sah	Sakha
+saq	Samburu
+sas	Sasak
+sat	Santali
+sav	Saafi-Saafi
+saz	Saurashtra
+sbp	Sangu
+sc	Sardinian
+sck	Sadri
+scn	Sicilian
+sco	Scots
+scs	North Slavey
+sd_Arab	Sindhi (Arabic)
+sd_Deva	Sindhi (Devanagari)
+sdc	Sassarese Sardinian
+sdh	Southern Kurdish
+se	Northern Sami
+sef	Cebaara Senoufo
+seh	Sena
+sei	Seri
+ses	Koyraboro Senni
+sg	Sango
+sgs	Samogitian
+shi_Latn	Tachelhit (Latin)
+shi_Tfng	Tachelhit (Tifinagh)
+shn	Shan
+si	Sinhala
+sid	Sidamo
+sk	Slovak
+skr	Saraiki
+sl	Slovenian
+sli	Lower Silesian
+sly	Selayar
+sm	Samoan
+sma	Southern Sami
+smj	Lule Sami
+smn	Inari Sami
+sms	Skolt Sami
+sn	Shona
+snf	Noon
+snk	Soninke
+so	Somali
+sou	Southern Thai
+sq	Albanian
+sr_Cyrl	Serbian (Cyrillic)
+sr_Latn	Serbian (Latin)
+srn	Sranan Tongo
+srr	Serer
+srx	Sirmauri
+ss	Swati
+ssy	Saho
+st	Southern Sotho
+stq	Saterland Frisian
+su	Sundanese
+suk	Sukuma
+sus	Susu
+sv	Swedish
+sw	Swahili
+swb	Comorian
+swg	Swabian
+swv	Shekhawati
+sxn	Sangir
+syl	Sylheti
+syr	Syriac
+szl	Silesian
+ta	Tamil
+taj	Eastern Tamang
+tbw	Tagbanwa
+tcy	Tulu
+tdd	Tai Nüa
+tdg	Western Tamang
+tdh	Thulung
+te	Telugu
+tem	Timne
+teo	Teso
+tet	Tetum
+tg_Arab	Tajik (Arabic)
+tg_Cyrl	Tajik (Cyrillic)
+th	Thai
+thl	Dangaura Tharu
+thq	Kochila Tharu
+thr	Rana Tharu
+ti	Tigrinya
+tig	Tigre
+tiv	Tiv
+tk_Latn	Turkmen (Latin)
+tkl	Tokelau
+tkr_Latn	Tsakhur (Latin)
+tkt	Kathoriya Tharu
+tly_Latn	Talysh (Latin)
+tmh	Tamashek
+tn	Tswana
+tnr	Ménik
+to	Tongan
+tog	Nyasa Tonga
+tpi	Tok Pisin
+tr	Turkish
+tru	Turoyo
+trv	Taroko
+ts	Tsonga
+tsd	Tsakonian
+tsf	Southwestern Tamang
+tsg	Tausug
+tsj	Tshangla
+tt	Tatar
+ttj	Tooro
+tts	Northeastern Thai
+ttt_Latn	Muslim Tat (Latin)
+tum	Tumbuka
+tvl	Tuvalu
+twq	Tasawaq
+ty	Tahitian
+tyv	Tuvinian
+tzm_Latn	Central Atlas Tamazight (Latin)
+udm	Udmurt
+ug_Arab	Uyghur (Arabic)
+ug_Cyrl	Uyghur (Cyrillic)
+uk	Ukrainian
+uli	Ulithian
+umb	Umbundu
+und	Unknown Language
+unr_Beng	unr (Bengali)
+unr_Deva	unr (Devanagari)
+unx_Beng	unx (Bengali)
+ur	Urdu
+uz_Arab	Uzbek (Arabic)
+uz_Cyrl	Uzbek (Cyrillic)
+uz_Latn	Uzbek (Latin)
+vai_Latn	Vai (Latin)
+vai_Vaii	Vai (Vai)
+ve	Venda
+vec	Venetian
+vep	Veps
+vi	Vietnamese
+vic	Virgin Islands Creole English
+vls	West Flemish
+vmf	Main-Franconian
+vmw	Makhuwa
+vot	Votic
+vro	Võro
+vun	Vunjo
+wa	Walloon
+wae	Walser
+wal	Wolaytta
+war	Waray
+wbp	Warlpiri
+wbq	Waddar
+wbr	Wagdi
+wls	Wallisian
+wni	Ndzwani Comorian
+wo	Wolof
+wtm	Mewati
+wuu	Wu Chinese
+xav	Xavánte
+xh	Xhosa
+xmf	Mingrelian
+xnr	Kangri
+xog	Soga
+xsr	Sherpa
+yao	Yao
+yap	Yapese
+yav	Yangben
+ybb	Yemba
+yi	Yiddish
+yo	Yoruba
+yrl	Nheengatu
+yua	Yucateco
+yue	Cantonese
+za	Zhuang
+zag	Zaghawa
+zdj	Ngazidja Comorian
+zea	Zeelandic
+zgh	Standard Moroccan Tamazight
+zh_Hans	Chinese (Simplified)
+zh_Hant	Chinese (Traditional)
+zmi	Negeri Sembilan Malay
+zu	Zulu
+zza	Zaza

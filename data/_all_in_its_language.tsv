@@ -1,47 +1,79 @@
 af		af	af	Afrikaans
+agq		agq	agq	Aghem
 ak		ak	ak	Akan
 am		am	am	አማርኛ
 ar		ar	ar	العربية
 as		as	as	অসমীয়া
+asa		asa	asa	Kipare
+ast		ast	ast	asturianu
 az		az	az	azəri
+bas		bas	bas	Ɓàsàa
 be		be	be	беларуская
+bem		bem	bem	Ichibemba
+bez		bez	bez	Hibena
 bg		bg	bg	български
 bm		bm	bm	bamanakan
 bn		bn	bn	বাংলা
 bo		bo	bo	བོད་སྐད་
 br		br	br	brezhoneg
+brx		brx	brx	बड़ो
 bs		bs	bs	bosanski
 ca		ca	ca	català
 ce		ce	ce	нохчийн
+cgg		cgg	cgg	Rukiga
+chr		chr	chr	ᏣᎳᎩ
+ckb		ckb	ckb	کوردیی ناوەندی
 cs		cs	cs	čeština
 cu		cu	cu	cu
 cy		cy	cy	Cymraeg
 da		da	da	dansk
+dav		dav	dav	Kitaita
 de		de	de	Deutsch
+de-AT	AT	de-AT	de-AT	Österreichisches Deutsch
+de-CH	CH	de-CH	de-CH	Schweizer Hochdeutsch
+dje		dje	dje	Zarmaciine
+dsb		dsb	dsb	dolnoserbšćina
+dua		dua	dua	duálá
+dyo		dyo	dyo	joola
 dz		dz	dz	རྫོང་ཁ
+ebu		ebu	ebu	Kĩembu
 ee		ee	ee	Eʋegbe
 el		el	el	Ελληνικά
 en		en	en	English
+en-AU	AU	en-AU	en-AU	Australian English
+en-CA	CA	en-CA	en-CA	Canadian English
 en-GB	GB	en-GB	en-GB	UK English
 eo		eo	eo	esperanto
 es		es	es	español
+es-419	419	es-419	es-419	español latinoamericano
+es-MX	MX	es-MX	es-MX	español de México
 et		et	et	eesti
 eu		eu	eu	euskara
+ewo		ewo	ewo	ewondo
 fa		fa	fa	فارسی
+fa-AF	AF	fa-AF	fa-AF	دری
 ff		ff	ff	Pulaar
 fi		fi	fi	suomi
+fil		fil	fil	Filipino
 fo		fo	fo	føroyskt
 fr		fr	fr	français
+fr-CA	CA	fr-CA	fr-CA	français canadien
+fr-CH	CH	fr-CH	fr-CH	français suisse
+fur		fur	fur	furlan
 fy		fy	fy	West-Frysk
 ga		ga	ga	Gaeilge
 gd		gd	gd	Gàidhlig
 gl		gl	gl	galego
+gsw		gsw	gsw	Schwiizertüütsch
 gu		gu	gu	ગુજરાતી
+guz		guz	guz	Ekegusii
 gv		gv	gv	Gaelg
 ha		ha	ha	Hausa
+haw		haw	haw	ʻŌlelo Hawaiʻi
 he		he	he	עברית
 hi		hi	hi	हिन्दी
 hr		hr	hr	hrvatski
+hsb		hsb	hsb	hornjoserbšćina
 hu		hu	hu	magyar
 hy		hy	hy	հայերեն
 id		id	id	Indonesia
@@ -50,74 +82,132 @@ ii		ii	ii	ꆈꌠꉙ
 is		is	is	íslenska
 it		it	it	italiano
 ja		ja	ja	日本語
+jgo		jgo	jgo	Ndaꞌa
+jmc		jmc	jmc	Kimachame
 ka		ka	ka	ქართული
+kab		kab	kab	Taqbaylit
+kam		kam	kam	Kikamba
+kde		kde	kde	Chimakonde
+kea		kea	kea	kabuverdianu
+khq		khq	khq	Koyra ciini
 ki		ki	ki	Gikuyu
 kk		kk	kk	қазақ тілі
+kkj		kkj	kkj	kakɔ
 kl		kl	kl	kalaallisut
+kln		kln	kln	Kalenjin
 km		km	km	ខ្មែរ
 kn		kn	kn	ಕನ್ನಡ
 ko		ko	ko	한국어
+kok		kok	kok	कोंकणी
 ks		ks	ks	کٲشُر
+ksb		ksb	ksb	Kishambaa
+ksf		ksf	ksf	rikpa
+ksh		ksh	ksh	Kölsch
 kw		kw	kw	kernewek
 ky		ky	ky	кыргызча
+lag		lag	lag	Kɨlaangi
 lb		lb	lb	Lëtzebuergesch
 lg		lg	lg	Luganda
+lkt		lkt	lkt	Lakȟólʼiyapi
 ln		ln	ln	lingála
 lo		lo	lo	ລາວ
+lrc		lrc	lrc	لۊری شومالی
 lt		lt	lt	lietuvių
 lu		lu	lu	Tshiluba
+luo		luo	luo	Dholuo
+luy		luy	luy	Luluhia
 lv		lv	lv	latviešu
+mas		mas	mas	Maa
+mer		mer	mer	Kĩmĩrũ
+mfe		mfe	mfe	kreol morisien
 mg		mg	mg	Malagasy
+mgh		mgh	mgh	Makua
+mgo		mgo	mgo	metaʼ
 mk		mk	mk	македонски
 ml		ml	ml	മലയാളം
 mn		mn	mn	монгол
 mr		mr	mr	मराठी
 ms		ms	ms	Bahasa Melayu
 mt		mt	mt	Malti
-my		my	my	ဗမာ
+mua		mua	mua	MUNDAŊ
+my		my	my	မြန်မာ
+mzn		mzn	mzn	مازرونی
+naq		naq	naq	Khoekhoegowab
 nb		nb	nb	norsk bokmål
 nd		nd	nd	isiNdebele
+nds-NL	NL	nds-NL	nds-NL	nds (NL)
 ne		ne	ne	नेपाली
 nl		nl	nl	Nederlands
+nl-BE	BE	nl-BE	nl-BE	Nederlands (België)
+nmg		nmg	nmg	nmg
 nn		nn	nn	nynorsk
+nnh		nnh	nnh	Shwóŋò ngiembɔɔn
+nus		nus	nus	Thok Nath
+nyn		nyn	nyn	Runyankore
 om		om	om	Oromoo
 or		or	or	ଓଡ଼ିଆ
 os		os	os	ирон
 pa		pa	pa	ਪੰਜਾਬੀ
 pl		pl	pl	polski
+prg		prg	prg	prūsiskan
 ps		ps	ps	پښتو
 pt		pt	pt	português
+pt-PT	PT	pt-PT	pt-PT	português europeu
 qu		qu	qu	Runasimi
 rm		rm	rm	rumantsch
 rn		rn	rn	Ikirundi
 ro		ro	ro	română
+ro-MD	MD	ro-MD	ro-MD	moldovenească
+rof		rof	rof	Kihorombo
+root		root	root	root
 ru		ru	ru	русский
 rw		rw	rw	Kinyarwanda
+rwk		rwk	rwk	Kiruwa
+sah		sah	sah	саха тыла
+saq		saq	saq	Kisampur
+sbp		sbp	sbp	Ishisangu
 se		se	se	davvisámegiella
+seh		seh	seh	sena
+ses		ses	ses	Koyraboro senni
 sg		sg	sg	Sängö
+shi		shi	shi	ⵜⴰⵛⵍⵃⵉⵜ
 si		si	si	සිංහල
 sk		sk	sk	slovenčina
 sl		sl	sl	slovenščina
+smn		smn	smn	anarâškielâ
 sn		sn	sn	chiShona
 so		so	so	Soomaali
 sq		sq	sq	shqip
 sr		sr	sr	српски
 sv		sv	sv	svenska
 sw		sw	sw	Kiswahili
+sw-CD	CD	sw-CD	sw-CD	Kingwana
 ta		ta	ta	தமிழ்
 te		te	te	తెలుగు
+teo		teo	teo	Kiteso
 th		th	th	ไทย
 ti		ti	ti	ትግርኛ
 tk		tk	tk	tk
 to		to	to	lea fakatonga
 tr		tr	tr	Türkçe
+twq		twq	twq	Tasawaq senni
+tzm		tzm	tzm	Tamaziɣt n laṭlaṣ
 ug		ug	ug	ئۇيغۇرچە
 uk		uk	uk	українська
 ur		ur	ur	اردو
 uz		uz	uz	o‘zbek
+vai		vai	vai	ꕙꔤ
 vi		vi	vi	Tiếng Việt
 vo		vo	vo	vo
+vun		vun	vun	Kyivunjo
+wae		wae	wae	Walser
+xog		xog	xog	Olusoga
+yav		yav	yav	nuasue
 yi		yi	yi	ייִדיש
 yo		yo	yo	Èdè Yorùbá
+yue		yue	yue	粵語
+zgh		zgh	zgh	ⵜⴰⵎⴰⵣⵉⵖⵜ
 zh		zh	zh	中文
+zh-Hans	Hans	zh-Hans	zh-Hans	简体中文
+zh-Hant	Hant	zh-Hant	zh-Hant	繁體中文
 zu		zu	zu	isiZulu
